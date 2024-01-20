@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Payalrhll12
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on student
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me youtubr
-- 😄 Pronouns: nothing
+- 😄 Pronouns: she
 - ⚡ Fun fact: nothing
 
 <!---
